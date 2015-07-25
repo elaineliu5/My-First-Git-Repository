@@ -6,3 +6,6 @@ Editing uses markdown
 ##H2
 
     quotation
+
+**bold**
+*italics*
